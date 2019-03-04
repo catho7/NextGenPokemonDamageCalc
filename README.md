@@ -1,6 +1,6 @@
 # 次世代Pokemon傷害計算器
 單對多Pokemon傷害計算器
-
+[Donation](https://paypal.me/catho7)
 
 ## 未實裝功能/內容
 * 部份圖片
