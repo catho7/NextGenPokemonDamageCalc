@@ -11,7 +11,7 @@
 * 天氣、場地
 * 複數對象時的傷害計算
 * 急所傷害計算
-* etc.
+* etc
 
 ## Bug Report
 * [高登PKM POST](https://m.hkgolden.com/view.aspx?message=6996022)
