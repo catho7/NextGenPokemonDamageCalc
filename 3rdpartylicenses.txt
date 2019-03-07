@@ -303,6 +303,12 @@ MIT
 @angular/forms
 MIT
 
+@ng-toolkit/universal
+MIT
+
+@nguniversal/common
+MIT
+
 zone.js
 MIT
 The MIT License
