@@ -1,6 +1,7 @@
 # 次世代Pokemon傷害計算器
 有別於傳統單對單計算器，為單對多的傷害計算器  
 [https://catho7.github.io/NextGenPokemonDamageCalc/](https://catho7.github.io/NextGenPokemonDamageCalc/)
+
 ## 未實裝功能/內容
 * 部份圖片
 * 部份招式
