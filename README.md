@@ -36,3 +36,15 @@
 * [ルナアーラ](http://sakanakun101.hatenablog.com/entry/2018/09/20/055734)
 * [グラードン](http://kou-yoshimaru.hatenablog.com/entry/2018/12/03/140300)
 * [ルンパッパ](http://sakanakun101.hatenablog.com/entry/2018/09/20/055734)
+
+#### 2019 International Challenge February Top 12
+
+* [ガオガエン](https://yana-buro-poke.hatenablog.com/entry/2018/09/17/002251)
+* [カイオーガ](https://omochi-kanon.hatenablog.com/entry/2018/12/28/042622)
+* [ゼルネアス、モロバレル](http://barudoru.hatenablog.com/entry/2018/09/29/110036)
+* [カミツルギ](https://moge-mo.hatenablog.com/entry/2018/09/23/221706)
+* [ルナアーラ](http://sakanakun101.hatenablog.com/entry/2018/09/20/055734)
+* [グラードン](http://kou-yoshimaru.hatenablog.com/entry/2018/12/03/140300)
+* [ルンパッパ](http://sakanakun101.hatenablog.com/entry/2018/09/20/055734)
+* [イベルタル](http://baitopoke.hatenablog.com/entry/2019/02/25/120000)
+* [ツンデツンデ](http://app-date.net/tsareenags/#i-8)
