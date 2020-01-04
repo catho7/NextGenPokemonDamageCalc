@@ -2,6 +2,8 @@
 有別於傳統單對單計算器，為12隻怪同時計算的傷害計算器  
 [https://catho7.github.io/NextGenPokemonDamageCalc/](https://catho7.github.io/NextGenPokemonDamageCalc/)
 
+不再更新，請使用[X世代Pokemon傷害計算器](https://catho7.github.io/PokemonCalc/)
+
 ## 未實裝功能/內容
 * 部份圖片
 * 部份招式
